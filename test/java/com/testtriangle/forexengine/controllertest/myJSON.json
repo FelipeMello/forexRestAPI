@@ -1,0 +1,12 @@
+{
+  "country1": {
+    "countryName": "Brazil ",
+    "currencyName": "Real",
+    "value": 3
+  },
+  "country2": {
+    "countryName": "America ",
+    "currencyName": "DOLLAR",
+    "value": 2.8
+  }
+}
